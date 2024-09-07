@@ -114,7 +114,7 @@ The analysis of motor vehicle crashes in New York reveals important patterns rel
 ## How to Use
 
 1. Clone this repository.
-2. Install the required libraries using `pip install -r requirements.txt`.
+2. Install the required libraries(pandas, matplotlib and seaborn) using `pip install`.
 3. Run the Jupyter notebooks to generate the plots.
 
 ---
